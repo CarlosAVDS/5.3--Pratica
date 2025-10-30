@@ -2,9 +2,9 @@ const leia = require('readline-sync')
 
 let n1, n2, n3, soma
 
-n1 = leia.questionInt('Digite o número A: ')
-n2 = leia.questionInt('Digite o número B: ')
-n3 = leia.questionInt('Digite o número C: ')
+n1 = leia.questionInt('Digite o numero A: ')
+n2 = leia.questionInt('Digite o numero B: ')
+n3 = leia.questionInt('Digite o numero C: ')
 soma = n1 + n2
 
 if((n1+n2) > n3){
