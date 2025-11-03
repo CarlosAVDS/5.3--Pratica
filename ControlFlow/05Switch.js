@@ -33,3 +33,4 @@ switch (cod) {
 }
 total = amount * qtd
 console.log(`Produto: ${prod} \nValor Total: R$${total}`)
+

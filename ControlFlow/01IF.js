@@ -14,3 +14,4 @@ if((n1+n2) > n3){
 }else{
      console.log(`\n${n1} + ${n2} = ${soma} = ${n3} \nA Soma de A + B é igual a C`)
 }
+

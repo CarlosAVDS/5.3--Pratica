@@ -33,3 +33,4 @@ switch (cod) {
         break;
 }
 console.log(`Nome do colaborador: ${nome} \nCargo: ${cargo} \nSalário: R$${amount}`)
+

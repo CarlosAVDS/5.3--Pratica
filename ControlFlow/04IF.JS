@@ -16,7 +16,6 @@ if (dica1 == "vertebrado") {
             console.log("Homem")
         } else { console.log("Vaca") }
     }
-    //else { console.log("Nenhuma correspondência, tente novamente") }
 } else {
     if (dica2 == "inseto") {
         if (dica3 == "hematofago") {
@@ -28,3 +27,4 @@ if (dica1 == "vertebrado") {
         } else { console.log("Minhoca") }
     }
 }
+

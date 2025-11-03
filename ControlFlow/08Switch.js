@@ -28,3 +28,5 @@ switch (cod) {
         console.log("Operação inválida!")
         break;
 }
+
+

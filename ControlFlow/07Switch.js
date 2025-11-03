@@ -29,3 +29,5 @@ switch (cod) {
 
 }
 if(sinal != undefined)console.log(n1,sinal,n2,'=', result)
+
+    
