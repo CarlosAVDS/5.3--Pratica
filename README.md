@@ -1,3 +1,3 @@
-## Atividade Prática 5.3
+## Atividades Práticas
 
-Os códigos estão dentro da pasta de atividades, fiquem a vontade para ver meus outros projetos, como meu Portifólio, disponivel neste github.
+Os códigos estão dentro das respectivas pastas de atividades, fiquem a vontade para ver meus outros projetos, como meu Portifólio, disponivel neste github.
